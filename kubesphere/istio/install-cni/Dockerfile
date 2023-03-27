@@ -1,0 +1,1 @@
+FROM istio/install-cni:1.11.1
