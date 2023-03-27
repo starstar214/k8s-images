@@ -1,1 +1,1 @@
-FROM istio/install-cni:1.11.1
+FROM docker.io/istio/install-cni:1.11.1
